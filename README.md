@@ -7,10 +7,10 @@ This repository contains a loan default prediction model that uses customer, loa
 - Build a predictive model for loan default within 12 months
 
 ## Dataset Overview
-- **loan_data.csv**: Loan-level details including amount, term, and purpose.
-- **customer_data.csv**: Demographic and engagement information about the applicants.
-- **customer_financials.csv**: Monthly salary and balance info from 2016 to 2018.
-- **loan_delinquencies.csv**: Records of late payments within the first 12 installments.
+- **Loans**: Loan information including amount, term, and purpose. 
+- **Customers**: Customer information including demographics, birth date, and bank engagement details.
+- **Customer Financials**: Financial information of customers from 2016 to 2018 including monthly salary and account balances.
+- **Loan Delinquencies**: Delinquency information of loans within the first 12 installments.
 
 > Note: For confidentiality reasons, only the first 5 rows of each dataset have been retained as examples.
 
