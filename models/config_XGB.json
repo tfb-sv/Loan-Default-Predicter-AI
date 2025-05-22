@@ -1,0 +1,15 @@
+{
+    "n_estimators": 194,
+    "max_depth": 4,
+    "subsample": 0.8319278525469792,
+    "colsample_bytree": 0.6250883139133506,
+    "gamma": 0.322402489955723,
+    "reg_lambda": 0.023421458957665325,
+    "reg_alpha": 2.491188208627566,
+    "booster": "dart",
+    "scale_pos_weight": 1.2268043816744436,
+    "learning_rate": 0.027630803587613308,
+    "random_state": 42,
+    "use_label_encoder": false,
+    "verbosity": 0
+}

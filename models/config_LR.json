@@ -1,0 +1,9 @@
+{
+    "max_iter": 2486,
+    "C": 0.6348607199032829,
+    "penalty": "l1",
+    "solver": "liblinear",
+    "random_state": 42,
+    "class_weight": "balanced",
+    "verbose": 0
+}
