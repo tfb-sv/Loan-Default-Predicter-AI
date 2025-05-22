@@ -14,11 +14,6 @@ This repository contains a loan default prediction model that uses customer, loa
 
 > Note: For confidentiality reasons, only the first 5 rows of each dataset have been retained as examples.
 
-## Key Definitions
-
-- **Default**: A loan is considered defaulted if 3 consecutive monthly installments are missed.
-- **Delinquency**: The state of a loan when an installment is overdue.
-
 ## Setup
 Install required libraries:
 
