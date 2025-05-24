@@ -23,18 +23,18 @@ Install required libraries:
 
 ## Usage
 
-### Training (with best hyperparameters and final dataset):
-To train XGBoost model without optimization and data preprocessing.
+### Training (with best hyperparameters and final dataset)
+To train XGBoost model without optimization and data preprocessing:
 
 > python main.py --mode training --model_type XGB
 
-### Training (from scratch):
-To train XGBoost model from scratch (takes around 30 minutes).
+### Training (from scratch)
+To train XGBoost model from scratch (takes around 30 minutes):
 
 > python main.py --mode training --model_type XGB --use_raw_data --run_optimization
 
-### Evaluation:
-To evaluate the trained XGBoost model.
+### Evaluation
+To evaluate the trained XGBoost model:
 
 > python main.py --mode evaluation --model_type XGB
 
